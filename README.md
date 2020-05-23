@@ -14,16 +14,16 @@ $ python2.7 edge-detection.py -m kirsch -i ~/Downloads/test.jpg
 
 Перевіряв тільки на Python версії 2.7. Відкриваютсья тільки файли з розширенням .jpg. В результаті отримуємо картинку, що зберігається в каталозі tmp и відкривається вашим додатком для перегляду зображень. 
 
-##### Original
+##### Оригінал
 ![alt tag](http://imgur.com/IGedcAe.jpg)
 
-##### Prewitt Mask
+##### Пре віта
 ![alt tag](http://i.imgur.com/x0PexRu.jpg)
 
-##### Sobel Mask
+##### Собеля
 ![alt tag](http://imgur.com/AeGiw40.jpg)
 
-##### Kirsch
+##### Кірша
 ![alt tag](http://imgur.com/Pg106sC.jpg)
 
 
